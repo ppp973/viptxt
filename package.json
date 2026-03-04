@@ -1,25 +1,25 @@
 {
-  "name": "lumina-study-dashboard",
-  "private": true,
-  "type": "module",
-  "scripts": {
-    "build": "remix build",
-    "dev": "remix dev",
-    "start": "remix-serve build",
-    "vercel-build": "remix build"
-  },
-  "dependencies": {
-    "@remix-run/node": "^2.8.1",
-    "@remix-run/react": "^2.8.1",
-    "@remix-run/serve": "^2.8.1",
-    "react": "^18.2.0",
-    "react-dom": "^18.2.0"
-  },
-  "devDependencies": {
-    "@remix-run/dev": "^2.8.1",
-    "typescript": "^5.4.5"
-  },
-  "engines": {
-    "node": ">=18"
-  }
+"name": "viptxt",
+"private": true,
+"type": "module",
+"scripts": {
+"dev": "remix dev",
+"build": "remix build",
+"start": "remix-serve build",
+"vercel-build": "remix build"
+},
+"dependencies": {
+"@remix-run/node": "^2.8.1",
+"@remix-run/react": "^2.8.1",
+"@remix-run/serve": "^2.8.1",
+"react": "^18.2.0",
+"react-dom": "^18.2.0"
+},
+"devDependencies": {
+"@remix-run/dev": "^2.8.1",
+"typescript": "^5.4.5"
+},
+"engines": {
+"node": ">=18"
+}
 }
